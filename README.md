@@ -7,7 +7,7 @@ I’m currently pursuing a Higher Technical Education at UEM, (Universidad Europ
 
 School 42 repo: [**42 Madrid**](https://github.com/exluyt/42Madrid-C)
 
-[![akiss 42 stats](https://badge.mediaplus.ma/honeytones/akiss?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![akiss 42 stats](https://badge.mediaplus.ma/kettlebells/akiss?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Languages and Tools
 
