@@ -1,6 +1,6 @@
 ### Arpad Kiss 🧡💛 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/exluyt)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arpad-kiss-dev)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpad-kiss-dev/)
 [![Profesional Web](https://img.shields.io/badge/-Globe-red?style=flat&logo=globe&logoColor=white)](https://exluyt.github.io/Porfolio/)
 ![](banner.png)
 I’m currently pursuing a Higher Technical Education at UEM, (Universidad Europea de Madrid). Moreover, I am a student at 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
