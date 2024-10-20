@@ -32,9 +32,10 @@ School 42 repo: [**42 Madrid**](https://github.com/exluyt/42Madrid-C)
 
 ## My Github Info 📊
 
+![Arpad's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exluyt&theme=gruvbox)
 
-![Arpad's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exluyt&theme=github_dark)
+![Arpad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exluyt&theme=yellowdark&hide_border=false)
 
-![Arpad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exluyt&theme=tokyonight&hide_border=false)
+![Arpad's Stats](https://github-readme-stats.vercel.app/api?username=exluyt&show_icons=true&hide_border=true&theme=great-gatsby)
 
-![Arpad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exluyt&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Arpad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exluyt&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
