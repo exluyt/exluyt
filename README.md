@@ -31,11 +31,12 @@ School 42 repo: [**42 Madrid**](https://github.com/exluyt/42Madrid-C)
 <br />
 
 ## My Github Info 📊
+<!--![Arpad's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exluyt&theme=gruvbox)-->
+<section align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exluyt&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact">
+</section>
+<section style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exluyt&theme=yellowdark&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=exluyt&show_icons=true&hide_border=true&theme=great-gatsby" style="margin-left: 20px;">
+</section>
 
-![Arpad's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exluyt&theme=gruvbox)
-
-![Arpad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=exluyt&theme=yellowdark&hide_border=false)
-
-![Arpad's Stats](https://github-readme-stats.vercel.app/api?username=exluyt&show_icons=true&hide_border=true&theme=great-gatsby)
-
-![Arpad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exluyt&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
