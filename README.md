@@ -3,14 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpad-kiss-dev/)
 [![Profesional Web](https://img.shields.io/badge/-Globe-red?style=flat&logo=globe&logoColor=white)](https://exluyt.github.io/Porfolio/)
 ![](banner.png)
-I’m currently workimg as a Technology Architecture Analyst at Accenture. 
+I’m currently working as a Technology Architecture Analyst at Accenture. 
 
 School 42 repo: [**42 Madrid**](https://github.com/exluyt/42Madrid-C)
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/kettlebells/akiss?1337Badge=off&UM6P=off" alt="akiss 42 stats">
-  </a>
-</p>
 
 ## Languages and Tools
 
