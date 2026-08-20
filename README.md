@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpad-kiss-dev/)
 [![Profesional Web](https://img.shields.io/badge/-Globe-red?style=flat&logo=globe&logoColor=white)](https://exluyt.github.io/Porfolio/)
 ![](banner.png)
-I’m currently pursuing a Higher Technical Education at UEM, (Universidad Europea de Madrid). Moreover, I am a student at 42 Madrid, a programming school that embraces a disruptive peer-to-peer learning model. 
+I’m currently workimg as a Technology Architecture Analyst at Accenture. 
 
 School 42 repo: [**42 Madrid**](https://github.com/exluyt/42Madrid-C)
 <p align="center">
